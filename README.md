@@ -1,1 +1,1 @@
-# React_Project
+TaskMate is a simple yet effective React-based Todo list application built using React, Vite, TailwindCSS, and Local Storage. It offers users the ability to add, edit, delete, mark as completed, and toggle the visibility of completed tasks. The application is designed with a clean and minimalist UI, ensuring a seamless user experience.
